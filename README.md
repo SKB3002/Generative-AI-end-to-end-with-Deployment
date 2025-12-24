@@ -1,7 +1,7 @@
 # Generative AI end-to-end with Deployment
 
 ## Techstack 
-LangChain | LangGraph | PEFT | Fine Tuning | LoRA/QLoRA | HuggingFace
+LangChain | LangGraph | PEFT | Fine Tuning | LoRA/QLoRA | HuggingFace | LLM's | Streamlit
 
 ## 1. Transformer Based Hinglish-Hindi-English Translator | [Link](https://github.com/SKB3002/Transformer-Based-Hinglish-Hindi-English-Translator)
 - **Fine-tuning** the MarianMT hi_xx to en_xx base model on **IIT Bombay Hindi-English Parallel Corpora** for **Multilingual Translation**.
